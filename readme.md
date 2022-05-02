@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="images/coryag.gif" width="230">
 
 ## Hello, My name is Vladimir 
 ## I am a software developer 
