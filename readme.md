@@ -16,7 +16,7 @@ class ErhoSen:
     technologies = {
         "Backend": ["Python", "GoLang", "Django", "FastAPI"],
         "Frontend": ["JavaScript", "TypeScript", "Swift"],
-        "DevOps": ["Docker", "Docker-Compose", "Kubernetes", "GitLab", "GitHub", "CI/CD"],
+        "DevOps": ["Docker", "Docker-Compose", "Kubernetes", "CI/CD"],
         "Databases": ["PostgreSQL", "MongoDB", "SQLite", "ElasticSearch", "Redis"],
         "Other": ["RabbitMQ", "Kafka", "TDD"]
     }
