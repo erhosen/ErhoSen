@@ -15,8 +15,7 @@ class ErhoSen:
     current_role = "Backend Teamlead"
     technologies = {
         "Backend": ["Python", "GoLang", "Django", "FastAPI"],
-        "Frontend": ["JavaScript", "HTML", "CSS", "Boostrap"],
-        "Mobile": ["Swift"],
+        "Frontend": ["JavaScript", "TypeScript", "Swift"],
         "DevOps": ["Docker", "Docker-Compose", "Kubernetes", "GitLab", "GitHub", "CI/CD"],
         "Databases": ["PostgreSQL", "MongoDB", "SQLite", "ElasticSearch", "Redis"],
         "Other": ["RabbitMQ", "Kafka", "TDD"]
