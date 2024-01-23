@@ -12,7 +12,7 @@
 
 ```python
 class ErhoSen:
-    current_role = "Backend Teamlead"
+    current_role = "Software Engineer"
     technologies = {
         "Backend": ["Python", "GoLang", "Django", "FastAPI"],
         "Frontend": ["JavaScript", "TypeScript", "Swift"],
