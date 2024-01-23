@@ -14,7 +14,7 @@
 class ErhoSen:
     current_role = "Software Engineer"
     technologies = {
-        "Backend": ["Python", "GoLang", "Django", "FastAPI"],
+        "Backend": ["Python", "Kotlin", "GoLang", "Django", "FastAPI"],
         "Frontend": ["JavaScript", "TypeScript", "Swift"],
         "DevOps": ["Docker", "Docker-Compose", "Kubernetes", "CI/CD"],
         "Databases": ["PostgreSQL", "MongoDB", "SQLite", "ElasticSearch", "Redis"],
