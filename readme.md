@@ -1,7 +1,7 @@
 <img align='right' src="images/coryag.gif" width="230">
 
-## Hello, My name is Vladimir 
-## I am a software developer 
+### Hello, My name is Vladimir 
+### I am a software developer 
 
 [![](https://img.shields.io/badge/LinkedIn-erhosen-darkblue)](https://www.linkedin.com/in/vyazovetskov/)
 [![](https://img.shields.io/badge/Telegram-erhosen-blue)](https://t.me/erhosen)
